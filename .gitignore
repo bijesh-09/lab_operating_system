@@ -1,0 +1,10 @@
+#Ignore output binaries
+bin/
+# Ignore Windows executables
+*.exe
+
+# Ignore standard compiled object/library files
+*.o
+*.out
+*.a
+*.so
