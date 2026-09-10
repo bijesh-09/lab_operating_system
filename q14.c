@@ -1,3 +1,7 @@
+/*
+Lab 14: Implement the Banker's Algorithm for Deadlock Avoidance.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
