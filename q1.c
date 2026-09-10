@@ -1,3 +1,7 @@
+/*
+Lab 1: Write a C program to demonstrate the use of getpid() and getppid() system calls.
+*/
+
 #include <stdio.h>
 #include <unistd.h>
 

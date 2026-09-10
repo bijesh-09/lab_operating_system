@@ -1,3 +1,8 @@
+/*
+Lab 2: Write a C program to create a child process using fork() and 
+demonstrate parent-child process execution.
+*/
+
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>

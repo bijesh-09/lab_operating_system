@@ -1,3 +1,7 @@
+/*
+Lab 7.2: Implement the Shortest Remaining Time First (SRTF) CPU Scheduling Algorithm.
+*/
+
 #include<stdio.h>  
 
 int main(){

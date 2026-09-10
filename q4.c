@@ -1,3 +1,7 @@
+/*
+Lab 4: Write a C program using the wait() system call for process synchronization.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

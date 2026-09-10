@@ -1,3 +1,7 @@
+/*
+Lab 5: Write a C program to demonstrate Inter-Process Communication (IPC) using pipe().
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

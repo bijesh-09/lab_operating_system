@@ -1,3 +1,8 @@
+/*
+Lab 6: Implement the First Come First Serve (FCFS) CPU Scheduling Algorithm.
+*/
+
+
 #include<stdio.h>
 #include<stdbool.h>
 #define max(a, b) ((a) > (b) ? (a) : (b))   

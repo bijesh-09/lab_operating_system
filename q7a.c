@@ -1,3 +1,7 @@
+/*
+Lab 7.1: Implement the Shortest Job First (SJF) CPU Scheduling Algorithm.
+*/
+
 #include<stdio.h>
 #include<stdbool.h>  
 
